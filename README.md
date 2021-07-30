@@ -2,6 +2,8 @@
 
 Created app in react native and for backend firebase is used
 
-## See the deployment only for testing
+## See the deployment
+
+Site is deployed only for testing.
 
 <a href="https://chatting-a52b2.web.app/">Chatting App</a>
